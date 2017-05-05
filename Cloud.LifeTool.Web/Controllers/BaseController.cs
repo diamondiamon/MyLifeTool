@@ -13,6 +13,7 @@ namespace Cloud.LifeTool.Web.Controllers
 
         public ActionResult Index()
         {
+
             return View();
         }
 
